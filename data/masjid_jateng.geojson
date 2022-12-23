@@ -17,7 +17,7 @@
         "alamat": "JALAN JEND. SUTOYO",
         "laman": "https://gis.dukcapil.kemendagri.go.id/"
       },
-      "geometry": { "type": "Point", "coordinates": [109.225450000303951, -7.429760000447395] }
+      "geometry": { "type": "Point", "coordinates": [109.225450000303951, -7.429760000447395], "fontawesome5icon": "snowman" }
     },
     {
       "type": "Feature",
